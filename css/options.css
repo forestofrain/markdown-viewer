@@ -20,7 +20,6 @@ footer, #footer-push {
 /*center content on large screens*/
 .mdc-toolbar__row,
 main {
-  max-width: 1200px;
   margin: 0 auto;
 }
 
